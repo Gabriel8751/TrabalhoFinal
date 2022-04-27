@@ -10,5 +10,5 @@
 - [x] Separar aleatoriamente as peças
 - [x] Separar peças para player e computador e jogadas
 - [x] Escolher peça a ser jogada
-- [x] Inverter peça se necessario
+- [x] Inverter peça se necessário
 - [ ] Deixar o computador mais "inteligente"
